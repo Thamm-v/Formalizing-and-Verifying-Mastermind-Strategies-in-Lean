@@ -1,8 +1,11 @@
 # Formalizing and Verifying Mastermind Strategies in Lean
 
 Lean 4 code accompanying the bachelor's thesis 
+
 **Formalizing and Verifying Mastermind Strategies in Lean** 
+
 by **Nils Lennard Steuernagel**, 
+
 Albert-Ludwigs-Universität Freiburg, 2026.
 
 This project formalizes the game of Mastermind and verifies three strategies for finding a secret code: 
